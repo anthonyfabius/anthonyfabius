@@ -6,7 +6,7 @@ Hello! I'm Anthony, a junior computer science student at Rensselaer Polytechnic 
 
 ### 🔭Currently Working On
 
-Most of my time goes towards working on [ParadiseOS](https://github.com/ParadiseOS/ParadiseOS), which is a lightweight 32-bit x86 multi-core operating system open-source operating system currently in development. Aside from that, I am currently developing a graph library in Rust and learning about compiler optimization.
+Most of my time goes towards working on [ParadiseOS](https://github.com/ParadiseOS/ParadiseOS), which is a open source micro-kernel operating system I'm working on with friends. Aside from that, I am currently developing a graph library in Rust and working on various projects.
 
 ### 📚 Learning
 
@@ -14,7 +14,7 @@ At Rensselaer, I'm delving deep into the realms of algorithms and computational 
 
 ### 💂Personal Interests
 
-Aside from being a professional procrastinator when I'm not buried in coursework, you can find me listening to the math rock, fencing, or cooking!
+Aside from being a professional procrastinator when I'm not buried in coursework, you can find me listening to the math rock, fencing, shredding on bass, or cooking!
 
 ### 📞 Contact Info
 Feel free to contact me via email at afabius05@gmail.com. Alternatively, you can reach out to me via Discord @ coup1799.
